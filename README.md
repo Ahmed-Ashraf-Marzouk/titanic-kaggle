@@ -1,5 +1,4 @@
 # Titanic Dataset Analysis
-# Code Readme
 
 This code performs a machine learning task to predict the survival outcome of passengers on the Titanic. It uses a Random Forest classifier to make the predictions based on several features of the passengers.
 
