@@ -48,11 +48,6 @@ The code builds a Random Forest classifier to predict the survival outcome based
    - It populates the 'PassengerId' column with the values from the 'PassengerId' column of `df_test` and the 'Survived' column with the predicted values from `predictions`.
    - The `output` DataFrame is then saved to a CSV file named 'submission.csv' using the `to_csv` function with `index=False` to exclude the index column.
 
-5. Completion Message:
-   - Finally, the code prints "
-
-done" to indicate that the process is complete.
-
 ## Prerequisites
 
 To run this code, make sure you have the following installed:
